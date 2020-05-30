@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 
-
 import 'package:covid_19/constants.dart';
 import 'package:covid_19/screens/home_screen.dart';
 
+// =============================================================================
+// Main:
+//
+//
+//
+// =============================================================================
 void main() {
   runApp(MyApp());
 }
@@ -21,8 +26,6 @@ class MyApp extends StatelessWidget {
         textTheme: Theme.of(context).textTheme.apply(displayColor: kTextColor),
       ),
       home: HomeScreen(),
-      
     );
   }
 }
-
