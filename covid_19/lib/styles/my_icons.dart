@@ -10,3 +10,4 @@ const iconNurse = 'assets/icons/nurse.svg';
 const iconVirus = 'assets/icons/virus.svg';
 const iconMore = 'assets/icons/more.svg';
 const iconIncrease = 'assets/icons/increase.svg';
+const iconMap = 'assets/icons/map.svg';
